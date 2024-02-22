@@ -1,0 +1,10 @@
+#container{
+    border: dotted 3px black;
+    
+
+}
+#content{
+    padding: 20px;
+    margin: 5%;
+    border: solid 2px red;
+}
